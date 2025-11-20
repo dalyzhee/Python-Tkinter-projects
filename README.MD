@@ -75,6 +75,42 @@ A simple Tkinter Todo program that performs four CRUDE (Create, retrieve, update
 ### Screenshot
 ![Calculator Screenshot](Screenshots/fifth.png) 
 
+## Project 6 – Temparature App with Tkinter
+
+### Description
+A simple Tkinter program that performs converts temparature from degrees to celcius.
+
+### Features
+- Take user input 
+- Convert from degree to celcius  
+- Error handling  
+
+### Screenshot
+![Calculator Screenshot](Screenshots/temp.png) 
+
+## Project 5 – Login Form with Tkinter
+
+### Description
+A simple Tkinter program that alows users to login, register account.
+
+### Features
+- Multipage 
+- Register account 
+- Login
+
+### Screenshot
+Login
+![Calculator Screenshot](Screenshots/login.png) 
+
+Dashboard
+![Calculator Screenshot](Screenshots/Dashbaord.png) 
+
+Register
+![Calculator Screenshot](Screenshots/register.png) 
+
+
+
+
 
 ## Requirements
 
